@@ -1,0 +1,255 @@
+[2025-05-22 15:55:20] >> MDB Plugin start
+[2025-05-22 15:55:20] >> LogWatcher start
+[2025-05-22 15:55:42] >> MDB connection successful
+[2025-05-22 15:55:42]  Search Table: CONDITION_DATA
+[2025-05-22 15:55:42] MariaDB connection successfully
+[2025-05-22 15:55:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:55:42]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:55:42] MariaDB connection successfully
+[2025-05-22 15:55:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:55:42]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:55:42] MariaDB connection successfully
+[2025-05-22 15:55:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:55:42]  Search Table: SUB_DATA
+[2025-05-22 15:55:42] MariaDB connection successfully
+[2025-05-22 15:55:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:55:42] search success range: 2023/03/29 00:00:00 ~ 2023/03/29 00:00:00
+[2025-05-22 15:56:08] >> MDB connection successful
+[2025-05-22 15:56:08]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:08] MariaDB connection successfully
+[2025-05-22 15:56:08] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:08]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:08] MariaDB connection successfully
+[2025-05-22 15:56:08] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:08]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:08] MariaDB connection successfully
+[2025-05-22 15:56:08] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:08]  Search Table: SUB_DATA
+[2025-05-22 15:56:08] MariaDB connection successfully
+[2025-05-22 15:56:08] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:08] search success range: 2023/03/29 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:27] >> MDB connection successful
+[2025-05-22 15:56:27]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:27] MariaDB connection successfully
+[2025-05-22 15:56:27] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:27]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:27] MariaDB connection successfully
+[2025-05-22 15:56:27] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:27]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:27] MariaDB connection successfully
+[2025-05-22 15:56:27] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:27]  Search Table: SUB_DATA
+[2025-05-22 15:56:27] MariaDB connection successfully
+[2025-05-22 15:56:27] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:27] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:42] >> MDB connection successful
+[2025-05-22 15:56:42]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:42] MariaDB connection successfully
+[2025-05-22 15:56:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:42]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:42] MariaDB connection successfully
+[2025-05-22 15:56:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:42]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:42] MariaDB connection successfully
+[2025-05-22 15:56:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:42]  Search Table: SUB_DATA
+[2025-05-22 15:56:42] MariaDB connection successfully
+[2025-05-22 15:56:42] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:42] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:51] >> MDB connection successful
+[2025-05-22 15:56:51]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: SUB_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:51] >> MDB connection successful
+[2025-05-22 15:56:51]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: SUB_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:51] >> MDB connection successful
+[2025-05-22 15:56:51]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: SUB_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:51] >> MDB connection successful
+[2025-05-22 15:56:51]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: SUB_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:51] >> MDB connection successful
+[2025-05-22 15:56:51]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: SUB_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:51] >> MDB connection successful
+[2025-05-22 15:56:51]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: SUB_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:51] >> MDB connection successful
+[2025-05-22 15:56:51]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:51] MariaDB connection successfully
+[2025-05-22 15:56:51] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:51]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:52] MariaDB connection successfully
+[2025-05-22 15:56:52] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:52]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:52] MariaDB connection successfully
+[2025-05-22 15:56:52] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:52]  Search Table: SUB_DATA
+[2025-05-22 15:56:52] MariaDB connection successfully
+[2025-05-22 15:56:52] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:52] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:56:57] >> MDB connection successful
+[2025-05-22 15:56:57]  Search Table: CONDITION_DATA
+[2025-05-22 15:56:57] MariaDB connection successfully
+[2025-05-22 15:56:57] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:57]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:56:57] MariaDB connection successfully
+[2025-05-22 15:56:57] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:57]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:56:57] MariaDB connection successfully
+[2025-05-22 15:56:57] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:57]  Search Table: SUB_DATA
+[2025-05-22 15:56:57] MariaDB connection successfully
+[2025-05-22 15:56:57] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:56:57] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:57:00] >> MDB connection successful
+[2025-05-22 15:57:00]  Search Table: CONDITION_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: SUB_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:57:00] >> MDB connection successful
+[2025-05-22 15:57:00]  Search Table: CONDITION_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: SUB_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:57:00] >> MDB connection successful
+[2025-05-22 15:57:00]  Search Table: CONDITION_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00]  Search Table: SUB_DATA
+[2025-05-22 15:57:00] MariaDB connection successfully
+[2025-05-22 15:57:00] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:00] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:57:00] >> MDB connection successful
+[2025-05-22 15:57:01]  Search Table: CONDITION_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: SUB_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:57:01] >> MDB connection successful
+[2025-05-22 15:57:01]  Search Table: CONDITION_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: SUB_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:57:01] >> MDB connection successful
+[2025-05-22 15:57:01]  Search Table: CONDITION_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: CUSTOM_TABLE
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: MEASUREMENT_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01]  Search Table: SUB_DATA
+[2025-05-22 15:57:01] MariaDB connection successfully
+[2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
+[2025-05-22 15:57:01] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
+[2025-05-22 15:58:07] MDB Plugin exit
