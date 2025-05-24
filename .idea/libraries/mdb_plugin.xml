@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="mdb_plugin">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/mdb_plugin_jar/mdb_plugin.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

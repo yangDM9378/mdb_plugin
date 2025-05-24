@@ -253,3 +253,25 @@
 [2025-05-22 15:57:01] 데이터 삽입 완료: 0 rows
 [2025-05-22 15:57:01] search success range: 2023/03/30 00:00:00 ~ 2023/03/30 00:00:00
 [2025-05-22 15:58:07] MDB Plugin exit
+[2025-05-24 14:42:07] >> MDB Plugin start
+[2025-05-24 14:42:07] >> LogWatcher start
+[2025-05-24 14:42:35] MDB connection fail
+[2025-05-24 14:42:35] MDB connection fail
+[2025-05-24 14:44:54] MDB Plugin exit
+[2025-05-24 14:44:56] >> MDB Plugin start
+[2025-05-24 14:44:56] >> LogWatcher start
+[2025-05-24 14:47:53] MDB Plugin exit
+[2025-05-24 14:48:17] >> MDB Plugin start
+[2025-05-24 14:48:17] >> LogWatcher start
+[2025-05-24 14:48:18] >> MDB Plugin start
+[2025-05-24 14:48:18] >> LogWatcher start
+[2025-05-24 14:49:08] MDB connection fail
+[2025-05-24 14:49:08] MDB connection fail
+[2025-05-24 14:49:14] MDB connection fail
+[2025-05-24 14:49:14] MDB connection fail
+[2025-05-24 14:49:33] MDB Plugin exit
+[2025-05-24 14:49:34] MDB Plugin exit
+[2025-05-24 14:49:38] >> MDB Plugin start
+[2025-05-24 14:49:38] >> LogWatcher start
+[2025-05-24 14:49:48] MDB connection fail
+[2025-05-24 14:49:53] MDB Plugin exit

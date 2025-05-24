@@ -9,6 +9,7 @@ public class LogWatcher implements Runnable {
     private volatile boolean running = true;
     private static final File LOG_FILE = new File(ConfigUtil.getLogFilePath());
     private static final File OFFSET_FILE = new File("./LOGFILE_DIR/position.Log");
+    private static final String CHECK_LOG = new String(ConfigUtil.getCheckLogValue());
 
     public void stop() {
         running = false;
@@ -17,7 +18,7 @@ public class LogWatcher implements Runnable {
     @Override
     public void run() {
         Logger.log(">> LogWatcher start");
-
+        System.out.println(CHECK_LOG);
         try {
             long lastPosition = 0;
             if (OFFSET_FILE.exists()) {
@@ -52,7 +53,7 @@ public class LogWatcher implements Runnable {
                             String line;
                             while ((line = raf.readLine()) != null) {
                                 String decodedLine = new String(line.getBytes(StandardCharsets.ISO_8859_1), StandardCharsets.UTF_8);
-                                if (decodedLine.contains("material processing state change:processed previous:inprocess material id:")) {
+                                if (decodedLine.contains(CHECK_LOG)) {
                                     System.out.println("→ " + decodedLine);
                                     String[] parts = decodedLine.split(" ");
                                     if (parts.length >= 2) {

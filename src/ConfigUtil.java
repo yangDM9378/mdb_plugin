@@ -30,4 +30,6 @@ public class ConfigUtil {
     public static String getMariaDbPath() {
         return "jdbc:mariadb://" + getProperty("maria_db_path");
     }
+
+    public static String getCheckLogValue() { return getProperty("check_log_value");}
 }
